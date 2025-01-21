@@ -8,24 +8,24 @@ shared_properties_lock = Lock()
 id_generator = SequentialIDGenerator()
 delegaciones = [
     "azcapotzalco",
-
+    "benito-juarez",
+    "coyoacan",
+    "cuajimalpa-de-morelos",
+    "gustavo-a-madero",
+    "miguel-hidalgo",
+    "tlahuac",
+    "iztacalco",
+    "iztapalapa",
+    "venustiano-carranza",
+    "la-magdalena-contreras",
+    "alvaro-obregon",
+    "cuauhtemoc"
 ]
 
 
 
 """
-"benito-juarez",
-"coyoacan",
-"cuajimalpa-de-morelos",
-"gustavo-a-madero",
-"miguel-hidalgo",
-"tlahuac",
-"iztacalco",
-"iztapalapa",
-"venustiano-carranza",
-"la-magdalena-contreras",
-"alvaro-obregon",
-"cuauhtemoc"
+
 """
 shared_properties = {}
 
